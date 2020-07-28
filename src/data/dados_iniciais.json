@@ -1,83 +1,87 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Tiny houses",
+      "link": "https://www.youtube.com/channel/UCoNTMWgGuXtGPLv9UeJZwBw",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Casas compactas e legais",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "3 Contêineres transformados em uma casa compacta incrível",
+          "url": "https://www.youtube.com/watch?v=LTa9cqioRDY&t=10s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "A vida num apartamento de 8 m² em Tóquio",
+          "url": "https://www.youtube.com/watch?v=TYVJbupG3Xg"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Adolescente constrói casa compacta com £6000",
+          "url": "https://www.youtube.com/watch?v=lEkxd3ux8Wk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Casa compacta off-grid",
+          "url": "https://www.youtube.com/watch?v=V1UjbmksKYI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Casa compacta com estufa geodésica",
+          "url": "https://www.youtube.com/watch?v=GRiIxe3GfCs"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Casa-caverna compacta de Hobbits",
+          "url": "https://www.youtube.com/watch?v=-lW4Yux-lzo"
+        }               
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Receitas de Quarentena",
+      "cor": "#F59315",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Coisas gostosas e fáceis",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Como fazer massa de pizza com fermento biológico seco",
+          "url": "https://www.youtube.com/watch?v=nXO2T9rXGEI"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Melhor mousse de chocolate do mundo!",
+          "url": "https://www.youtube.com/watch?v=maFD34H9XTA"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Pudim de Leite Moça",
+          "url": "https://youtu.be/XAU1wx2PPSE"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Manjar branco especial com calda de ameixa",
+          "url": "https://youtu.be/OCdVjnmXhqc"
+        },
+        {
+          "titulo": "Molho de tomate da Paola do Masterchef",
+          "url": "https://www.youtube.com/watch?v=lSr2fEMiAGU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Spaghetti com abobrinha e hortelã em 15 min",
+          "url": "https://www.youtube.com/watch?v=DFGI_SvgNaI"
+        },
+        {
+          "titulo": "Pão com ovo cabuloso",
+          "url": "https://www.youtube.com/watch?v=IilGL6HVR6U"
+        },
+        {
+          "titulo": "Cuscuz Paulista vegetariano",
+          "url": "https://youtu.be/UWPqWLGJAS0"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Mundo",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Viagens, lugares e afins",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -86,38 +90,42 @@
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "20 FATOS SOBRE DARK, A SÉRIE ALEMÃ DO NETFLIX - Alemanizando",
+          "url": "https://www.youtube.com/watch?v=jd16yRTsP8k&t=303s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "A MELHOR ATRAÇÃO TURÍSTICA DO JAPÃO INTEIRO (segundo o TripAdvisor) - Alemanizando",
+          "url": "https://www.youtube.com/watch?v=0eLkFNOMXrY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "CHEGAMOS A EDMONTON - KITTY NO CANADÁ",
+          "url": "https://youtu.be/RH-Y_STzaLk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Pop culture",
       "cor": "orange",
+      "link_extra": {
+        "text": "Cultura geral e curiosidades",
+        "url": ""
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Abduction as Romance",
+          "url": "https://www.youtube.com/watch?v=t8xL7w1POZ0"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The real story behind this war poster",
+          "url": "https://www.youtube.com/watch?v=qWIVSmx0zPE"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Tony Hawk breaks down skateboarding’s legendary spots",
+          "url": "https://www.youtube.com/watch?v=omigBsOmtjw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The dollhouses of death that changed forensic science",
+          "url": "https://www.youtube.com/watch?v=9hdT8PgT19w"
         }
       ]
     },
@@ -125,29 +133,29 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Jogos legais pra amenizar a quarentena",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Cuphead Launch Trailer",
+          "url": "hhttps://www.youtube.com/watch?v=NN-9SQXoi50"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Civilization V Announcement Trailer",
+          "url": "https://www.youtube.com/watch?v=rfnD0M6JazA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Last of Us II Trailer",
+          "url": "https://www.youtube.com/watch?v=X0VubwgS2Y4"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Overcooked 2 Launch Trailer",
+          "url": "https://www.youtube.com/watch?v=uKLb8D36YKk"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Unrailed! Trailer",
+          "url": "https://www.youtube.com/watch?v=p_vRcFP1ohU"
         }
       ]
     },
